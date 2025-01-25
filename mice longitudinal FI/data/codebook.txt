@@ -1,0 +1,48 @@
+
+# Longitudinal Frailty Codebook
+
+Data is wide-formatted. Variables formatted [variable]_[number] are part of a series where [number] corresponds to the nth chronological assessment for the animal in the study. The associated date is provided in collection_date_[number].
+
+- id: unique mouse identifier
+- sex: sex of mouse.
+- strain: genetic background of mouse. 'C57BL/6J', 'J:DO'
+- diet: assigned diet. 'AL' (ad libitum), 'IF1' (1-day intermittent fast), 'IF2' (2-day intermittent fast), 'CR20' (20% calorie restriction), 'CR40' (40% calorie restriction)
+- date_due: date phenotyping scheduled 
+- date_born: date born
+- date_exit: date of death
+- collection_date: date of actual phenotyping event
+ - activity: Evaluate general movement and activity levels. 0 = Actively resists attempts to grasp by tail, runs around cage; 0.5 = Does not resist being picked up, but moves readily when placed in new cage; 1 = Does not move when placed in new cage.
+- body_condition: Place mouse on flat surface, hold tail base and manually assess the flesh/fat that covers the sacroiliac region (back and pubic bones). 0 = BCS greater than or equal to 3; 0.5 = BCS 2; 1 = BCS 1
+- body_weight: Bodyweight (grams)
+- breathing_rate_depth: Observe the animal.  Note the rate and depth of breathing as well as any gasping behavior. 0 = normal; 0.5 = modest change in breathing rate and/or depth; 1 = marked changes in rate/depth, gasping
+- changes_to_the_globe: Visually inspect mouse for corneal opacities, defects, or enlarged globe. 0 = normal; 0.5 = minimal changes in cornea/globe; 1 = marked clouding and/or spotting of cornea/enlarged globe
+- coat_condition: Inspect the animal for signs of poor grooming. 0 = smooth, sleek, shiny coat; 0.5 = coat is slightly ruffled; 1 = unkempt and un-groomed, matted appearance
+- dehydration_reduced_skin_turgor: Make skin tent between shoulders. 0 = skin quickly returns to normal; 1 = skin slowly to returns to normal (over 2 seconds)
+- dermatitis: Document skin lesions, including on tail. 0 = absent; 0.25 = less than 1 cm; 0.75 = 1-2 cm; 1 = greater than 2 cm
+- diarrhea: Grasp the mouse and invert it to check for signs of diarrhea.  Also look for fecal smearing in home cage. 0 = none; 1 = soft feces present, may be smeared on cage walls
+- distended_abdomen: Hold the mouse vertically by the base of their tail and tip backwards over your hand.  Excess fluid visible as a bulge below the rib cage. 0 = absent; 0.5 = slight bulge; 1 = abdomen clearly distended
+- eye_discharge_eyelid_inflammation: Visual inspection of the mouse to detect ocular discharge and inflammation of eyelids. 0 = normal; 0.5 = slight swelling and/or secretions; 1 = obvious bulging and/or secretions
+- gait_disorders: Observe the freely moving animal to detect abnormalities such as hopping, wobbling, circling, wide stance and weakness. 0 = no abnormality; 0.5 = abnormal gait but animal can still walk; 1 = marked abnormality, impairs ability to move
+- head_piloerection: Look for signs of piloerection across the head. 0 = not present; 0.5 = small/mild; 1 = prominent 
+- hunched: Inspect for hunched posture while standing and walking. Hunched posture is indicated by a curvature of the thoracic spine along with a degree of abdominal tuck. 0 = absent; 0.5 = mildly hunched; 1 = markedly hunched
+- kyphosis: Inspect the mouse for curvature of the spine.  Run your fingers down both sides of the spine to detect abnormalities. 0 = absent; 0.5 = mild curvature; 1 = severe curvature of spine
+- malocclusions: Grasp the mouse by the neck scruff, invert and expose teeth.  Look for uneven, overgrown teeth. 0 = mandibular longer than maxillary incisors; 0.5 = teeth slightly uneven; 1 = teeth very uneven and overgrown 
+- nasal_discharge: Visual inspection of the mouse to detect nasal discharge. 0 = no discharge; 0.5 = small amount of discharge; 1 = obvious discharge, both nares
+- pallor_and_or_cyanosis: Document the color of the feet and tail. 0 = normal color; 0.5 = slight chalky OR purple appearance; 1 = clear evidence of pallor or cyanosis
+- paralysis: Place the animal in a weaning cage and record if paralysis is present. If so, record whether the paralysis affects the hind limbs, front limbs, or both. 0 = absent/no limbs affected; 0.5 = one limb affected; 1 = more than one limb affected
+- peri_retro_orbital_swelling: Inspect for swelling around or behind the eye. 0 = mild swelling, eyelids can still close; 0.5 = moderate swelling (3-5mm protrusion), eyelids can't close; 1 = severe swelling greater than 5mm
+- piloerection: Look for signs of piloerection, in particular on the back of the neck. 0 = no piloerection; 0.5 = involves fur at base of neck only; 1 = widespread piloerection
+- rectal_prolapse: Grasp the mouse by the base of the tail to detect signs of rectal prolapse. 0 = no prolapse; 0.5 = less than or equal to 4mm of tissue exposed; 1 = greater than 4 mm of tissue exposed
+- response_to_analgesic: If any of the previous eye scores are greater than zero and the animal squints/closes the eye, place 2 drops of Proparacaine in the eye and record the response after 5 minutes. 0 = eye remains closed and animal does not respond to analgesic; 0.5 = eye is partially open after analgesic; 1 = eye is fully open after analgesic
+- response_to_external_stimuli: Place the animal in a weaning cage and using a cotton tipped applicator, budge the animal in the area of the lateral thorax with enough force to slightly  move the body. 0 = responds to stimuli; 1 = does not respond to stimuli 
+- tail_stiffening: Grasp the base of the tail with one hand and stroke the tail with a finger of the other hand.  The tail should wrap freely around the finger when mouse is relaxed. 0 = no tail stiffening; 0.5 = tail responsive but does not curl; 1 = tail completely unresponsive
+- temperature: Temperature (C)
+- thoracic_mass: Observe the mice to look for a thoracic mass. 0 = not present; 0.5 = small/mild; 1 = prominent 
+- tremor: Observe the freely moving animal to detect tremor, both at rest and when the animal is trying to climb up an incline. 0 = no tremor; 0.5 = slight tremor; 1 = marked tremor, animal cannot climb
+- tumors: Observe the mice to look for symmetry.  Hold the base of the tail and examine mice for visible or palpable tumours. 0 = absent; 0.5 = less than 1.0 cm; 1 = greater than 1.0 cm or multiple small tumours  add as separate column
+- urine: Restrain the mouse and attempt to massage the bladder to produce urine. 0 = Animal expresses bladder; 1 = Animal cannot express bladder 
+- vaginal_uterine_prolapse: Grasp the mouse by the base of the tail to detect signs of vaginal/uterine or penile prolapse. 0 = no prolapse; 0.5 = less than or equal to 4mm of tissue exposed; 1 = greater than 4 mm of tissue exposed
+- vestibular_disturbance: Hold the base of the tail and lower mouse towards a flat surface.  Inspect for head tilt, spinning, circling, head tuck or trunk curling. 0 = absent; 0.5 = mild head tilt and/or slight spin when lowered; 1 = severe disequilibrium
+- exit_reason: exit reason. 'DC' [discarded]; 'ES' [euthanized sick]; 'FD' [found dead]; 'FTR' [failed to recover]; 'MSG' [missing]; 'RE' [requested euthanasia]; 'NA' [unknown]
+- has_clinical_record: clinical veterinarian monitoring or activity found in LIMS. Clinical records may not be complete. 1 = yes; 0 = no
+- collected_by_anon: research assistant ID (anonymized). 'A'; 'B'; 'C'; 'D'
