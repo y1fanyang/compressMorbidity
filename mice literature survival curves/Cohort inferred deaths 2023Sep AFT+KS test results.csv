@@ -1,0 +1,45 @@
+,sex,treatment,dataset,rescaled,pvalue,KSm_statistics,Ncontrol,Nintervention
+20,f,ATTAC+AP C57,ATTAC+AP C57_f_Deursen_2016_Naturally occurring p16Ink4a-positive cells shorten healthy lifespan.csv,1.1226385158924141,0.4605443599985627,0.8568623255274004,26,25
+41,m,ATTAC+AP C57,ATTAC+AP C57_m_Deursen_2016_Naturally occurring p16Ink4a-positive cells shorten healthy lifespan.csv,1.1270067403346822,0.031991831923008154,1.4379537023568632,30,24
+3,f,ATTAC+AP mix,ATTAC+AP mix_f_Deursen_2016_Naturally occurring p16Ink4a-positive cells shorten healthy lifespan.csv,1.1634285486485416,0.5136834103660914,0.8244074589996111,25,36
+23,m,ATTAC+AP mix,ATTAC+AP mix_m_Deursen_2016_Naturally occurring p16Ink4a-positive cells shorten healthy lifespan.csv,1.1786880793345815,>= 0.8,0.5780364560596756,30,21
+26,mix,BD,BD_mix_Kume_2023_Ketone bodies A double-edged sword for mammalian life span.csv,0.9004117613605843,0.6343674547364045,0.7577181453494021,19,19
+10,m,CR_d02h,CR_d02h_m_Takahashi_2022_Circadian alignment of early onset caloric .csv,1.177914489299735,>= 0.8,0.5439691419539024,42,35
+38,m,CR_d12h,CR_d12h_m_Takahashi_2022_Circadian alignment of early onset caloric .csv,1.1854000525695758,0.5868370198055024,0.7829927610320652,42,35
+0,m,CR_n02h,CR_n02h_m_Takahashi_2022_Circadian alignment of early onset caloric .csv,1.2779123277839881,0.16426210307210454,1.1179085646866516,42,35
+40,m,CR_n12h,CR_n12h_m_Takahashi_2022_Circadian alignment of early onset caloric .csv,1.2495401325160826,>= 0.8,0.6526083106931374,42,35
+14,m,CR_s,CR_s_m_Takahashi_2022_Circadian alignment of early onset caloric .csv,1.118057634178224,>= 0.8,0.5573603575735434,42,35
+28,mix,D+Q,D+Q_mix_Kirkland_2018_Senolytics improve physical function and increase lifespan in old age.csv,1.0450092153202317,>= 0.8,0.4391229824224156,75,70
+4,f,FMD,"FMD_f_Longo_2015_A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan.csv",1.059373661894151,0.02493967450418624,1.4806151712262512,45,28
+15,mix,Fisetin,Fisetin_mix_Niedernhofer_2018_Fisetin is a senotherapeutic that extends health and lifespan.csv,1.1310281976761123,>= 0.8,0.6492530424371112,8,8
+29,m,HF,HF_m_Verdin_2017_Ketogenic Diet Reduces Midlife Mortality and Improves Memory in Aging Mice.csv,0.8730999495891284,>= 0.8,0.6258244848818213,60,25
+30,f,IGF-1RmAB,IGF-1RmAB_f_Huffman_2018_Late-life targeting of the IGF-1 receptor improves.csv,1.0689648609583828,>= 0.8,0.4771635055212978,44,44
+5,m,KD,KD_m_Lopez-Dominguez_2017_A Ketogenic Diet Extends Longevity and Healthspan in Adult Mice.csv,1.085710430429898,>= 0.8,0.45119108586887247,43,42
+22,m,KD,KD_m_Verdin_2017_Ketogenic Diet Reduces Midlife Mortality and Improves Memory in Aging Mice.csv,0.9152526178914282,0.18413113364032363,1.0920746936317607,60,36
+33,mix,KD,KD_mix_Maratos-Flier_2015_Adaptive changes in amino acid metabolism permit.csv,1.0349435490694108,0.4379035898171519,0.8712584416545891,39,30
+21,m,LCD,LCD_m_Lopez-Dominguez_2017_A Ketogenic Diet Extends Longevity and Healthspan in Adult Mice.csv,1.0482957059789109,>= 0.8,0.6175130520785921,43,42
+18,mix,LCKD,LCKD_mix_Kume_2023_Ketone bodies A double-edged sword for mammalian life span.csv,0.8083309022439308,0.10551260595681203,1.2128627346096346,19,14
+24,f,Putrescine 4mo,Putrescine 4mo_f_Madeo_2016_Cardioprotection and lifespan extension by the natural polyamine sperm.csv,1.045172348234096,0.544422072858034,0.8065908635139072,39,19
+34,f,Rapa 4mo,Rapa 4mo_f_Richardson_2014_Mice Fed Rapamycin Have an Increase in Lifespan Associated with Major Changes in the Liver Transcriptome.csv,1.130361593116822,0.21838950479457758,1.052288523123742,44,44
+2,m,Rapa 4mo,Rapa 4mo_m_Richardson_2014_Mice Fed Rapamycin Have an Increase in Lifespan Associated with Major Changes in the Liver Transcriptome.csv,1.1093070885691205,>= 0.8,0.578609519283054,39,44
+25,f,Rapa inj3m,Rapa inj3m_f_Kaeberlein_2016_Transient rapamycin treatment can increase lifespan and healthspan in middle-aged mice.csv,0.9814978185684377,>= 0.8,0.5309477672466305,19,19
+43,m,Rapa inj3m,Rapa inj3m_m_Kaeberlein_2016_Transient rapamycin treatment can increase lifespan and healthspan in middle-aged mice.csv,1.1164910479983057,>= 0.8,0.6072343990163689,17,16
+13,f,Rapamycin 19mo,Rapamycin 19mo_f_Fischer_2013_Rapamycin Extends Life and Health in C57BL6 Mice.csv,1.063303422900397,>= 0.8,0.6069142040469866,42,44
+1,m,Rapamycin 19mo,Rapamycin 19mo_m_Fischer_2013_Rapamycin Extends Life and Health in C57BL6 Mice.csv,1.0375034299988901,>= 0.8,0.5550065873650614,43,44
+11,f,Rapamycin 20mo,Rapamycin 20mo_f_Bartke_2018_Effects of rapamycin on growth hormone receptor knockout mice.csv,1.1758205882995671,0.5241132626371124,0.8182852951814502,12,12
+17,m,Rapamycin 20mo,Rapamycin 20mo_m_Bartke_2018_Effects of rapamycin on growth hormone receptor knockout mice.csv,1.1794608131167597,0.21487352993187608,1.0561374996390367,17,16
+31,mix,Rapamycin 3mo 42ppm,Rapamycin 3mo 42ppm_mix_Blasco_2020_The mTOR pathway is necessary for survival of mice with short telomeres.csv,1.2128343642665433,0.08212665789476882,1.2634555384907185,22,25
+7,f,Spermidine 4mo,Spermidine 4mo_f_Madeo_2016_Cardioprotection and lifespan extension by the natural polyamine sperm.csv,1.0961375533164113,0.5766888713283926,0.7885428194666875,39,40
+42,f,Spermine 4mo,Spermine 4mo_f_Madeo_2016_Cardioprotection and lifespan extension by the natural polyamine sperm.csv,1.1067406627390872,0.7160897208180194,0.7166229123852889,39,16
+9,f,TNFa block,TNFa block_f_Rovere-Querini_2020_Pharmacological blockade of TNFα p.csv,1.196562023171405,0.4687798700429406,0.8516951204908456,22,22
+8,f,Taurine,Taurine_f_Yadav_2023_Taurine deficiency as a driver of aging.csv,1.0839512771933435,0.008986104662923877,1.6439621348483224,61,59
+6,m,Taurine,Taurine_m_Yadav_2023_Taurine deficiency as a driver of aging.csv,1.064153640613365,0.09059552931380419,1.2438845591599164,63,59
+16,f,VEGF,VEGF_f_Keshet_2021_Counteracting age-related VEGF signalinginsufficiency promotes healthy aging and extendslife span.csv,1.4081830734387248,0.016017200709530756,1.5535828382167114,49,49
+36,m,VEGF,VEGF_m_Keshet_2021_Counteracting age-related VEGF signalinginsufficiency promotes healthy aging and extendslife span.csv,1.3872807387647876,0.1718851310887901,1.1077174839149668,49,49
+12,m,cyclic HF,cyclic HF_m_Verdin_2017_Ketogenic Diet Reduces Midlife Mortality and Improves Memory in Aging Mice.csv,0.9861959526766713,0.05038743985890119,1.3566798672994498,60,35
+39,m,cyclic KD,cyclic KD_m_Verdin_2017_Ketogenic Diet Reduces Midlife Mortality and Improves Memory in Aging Mice.csv,1.003359882881448,0.30762224733882615,0.9674786558309982,60,80
+37,m,eHSP70 12mo,eHSP70 12mo_m_Nudler_2015_Exogenous Hsp70 delays senescence and improves.csv,1.1293623535046222,>= 0.8,0.6563376665419315,26,24
+27,f,eRapa 2mo,eRapa 2mo_f_Hasty_2015_p53 and rapamycin are additive.csv,1.1877733346127595,>= 0.8,0.612122401149183,16,20
+19,m,eRapa 2mo,eRapa 2mo_m_Hasty_2015_p53 and rapamycin are additive.csv,1.1383323912229197,0.7040881153615414,0.7224952775953725,18,35
+35,f,eRapa o3m,eRapa o3m_f_Kaeberlein_2016_Transient rapamycin treatment can increase lifespan and healthspan in middle-aged mice.csv,1.0809760182056567,0.5507846452373535,0.80298131353937,17,17
+32,m,eRapa o3m,eRapa o3m_m_Kaeberlein_2016_Transient rapamycin treatment can increase lifespan and healthspan in middle-aged mice.csv,1.0815150214960507,0.46729822037734775,0.8526238203476061,19,18
